@@ -24,3 +24,5 @@ for a in range(N-7):
         count.append(min(index1, index2))
 
 print(min(count))
+
+print("추가했다 이부분")
